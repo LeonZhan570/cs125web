@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Leon Page
 
-You can use the [editor on GitHub](https://github.com/LeonZhan570/cs125web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page aims at introducing main characters in Resident Evil 6.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Leon Scott Kennedy](https://en.wikipedia.org/wiki/Leon_S._Kennedy)
+Leon Scott Kennedy is an American federal agent for the Division of Security Operations (D.S.O.). Prior to this, he served as a police officer with the Raccoon City Police Department (R.P.D.) for a single day. The actions in the city led to his successful recruitment as a member of US-STRATCOM after the incident in Raccoon City.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Ada Wong](https://en.wikipedia.org/wiki/Ada_Wong)
+Ada Wong is the pseudonym of an otherwise-unnamed red-clad, Asian-American of Chinese descent. Initially a private agent, Ada was drawn into the intrigue and treachery that is the corporate world when she was recruited by a rival company to participate in their activities against their primary rival, Umbrella, and later moved to another.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeonZhan570/cs125web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Chris Redfield](https://en.wikipedia.org/wiki/Chris_Redfield)
+Chris Redfield is an American Special Operations Unit Captain of the Bioterrorism Security Assessment Alliance, of which he is a founding member, along with his long-time partner; Jill Valentine. Chris is also the older brother of TerraSave member, Claire Redfield.
